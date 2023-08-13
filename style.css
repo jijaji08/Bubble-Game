@@ -148,7 +148,7 @@ button{
 	justify-content: center;
 }
 #main #panel #p-bottom #bubble:hover{
-	padding: 42px;
+	padding: 41px;
 	transition: 0.2s;
 	color: black;
 }
