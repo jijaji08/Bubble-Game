@@ -1,1 +1,1 @@
-# Bubble-Game
+Welcome to the Bubble Game! This simple web-based game is created using HTML, CSS, and JavaScript. It's a great project for learning about the Document Object Model (DOM) and logic building in web development.Welcome to the Bubble Game! This simple web-based game is created using HTML, CSS, and JavaScript. It's a great project for learning about the Document Object Model (DOM) and logic building in web development.
